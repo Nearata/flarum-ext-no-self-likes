@@ -1,6 +1,6 @@
 # No Self Likes
 
-A [Flarum](http://flarum.org) extension that disallow users to like their own posts.
+> A [Flarum](http://flarum.org) extension that disallow users to like their own posts.
 
 ## Install
 
