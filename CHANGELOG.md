@@ -7,7 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [1.1.0] - 2021-04-05
 
-- Using `Extend\Policy` extender.
+- (Improved) Using `Extend\Policy` extender.
 
 ## [1.0.0] - 2021-04-04
 
